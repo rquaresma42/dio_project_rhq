@@ -43,7 +43,6 @@ Imagine que você é proprietário de uma sorveteria chamada Gelato Mágico, loc
 Este projeto demonstra como utilizar o Azure Machine Learning para criar um modelo preditivo que ajuda a otimizar a produção de sorvete com base na temperatura. A implementação no Azure garante escalabilidade, reprodutibilidade e monitoramento contínuo do modelo.
 
 Para mais detalhes, visite o [repositório do projeto no GitHub](https://github.com/rquaresma42/dio_project_rhq).
-<<<<<<< HEAD
 
 # ==========================================================================================
 
@@ -121,5 +120,3 @@ def extract_text_from_pdf(pdf_content):
 pdf_content = load_pdf_from_blob("meu-container", "artigo.pdf")
 text = extract_text_from_pdf(pdf_content)
 print(text)
-=======
->>>>>>> feed9ff7a892b8b60bec388a83543e2f61180bbb
