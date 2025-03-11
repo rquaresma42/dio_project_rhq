@@ -37,7 +37,7 @@ Imagine que você é proprietário de uma sorveteria chamada Gelato Mágico, loc
 ![Resultados do Modelo](image/score_data.png)
 
 ### Jobs de Automated ML
-![Jobs de Automated ML](image/Screenshot_From_2025-03-11_02-28-12.png)
+![Jobs de Automated ML](image/job_automl.png)
 
 ## Conclusão
 Este projeto demonstra como utilizar o Azure Machine Learning para criar um modelo preditivo que ajuda a otimizar a produção de sorvete com base na temperatura. A implementação no Azure garante escalabilidade, reprodutibilidade e monitoramento contínuo do modelo.
