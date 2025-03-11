@@ -79,6 +79,8 @@ Imagine que você é um estudante de Engenharia de Software prestes a escrever s
 
 ###Como foi feito via interface gráfica, temos as imagens a seguir:
 
+### Modelos
+![Modelos](image/modelos.png)
 
 ### Criação do chat
 ![Azure Foundry](image/chat.png)
